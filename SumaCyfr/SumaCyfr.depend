@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1654689346 source:c:\users\t005_m.strzyzewski\documents\github\wojtek\sumacyfr\main.cpp
+1654696905 source:c:\users\t005_m.strzyzewski\documents\github\wojtek\sumacyfr\main.cpp
 	<iostream>
 	<cmath>
+	<cstdio>
 
